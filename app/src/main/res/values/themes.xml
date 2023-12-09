@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Authentic8.Main" parent="Theme.MaterialComponents.NoActionBar" />
+
+    <style name="Theme.Authentic8.Signup" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="Theme.Authentic8.Login" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimarySignUp</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSignUp</item>
+    </style>
+</resources>

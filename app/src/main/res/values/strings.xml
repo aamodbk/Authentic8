@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Authentic8</string>
+    <string name="sign_up">Create Account</string>
+    <string name="edit_text_username">Username</string>
+    <string name="edit_text_password">Password</string>
+    <string name="edit_text_password_confirm">Confirm Password</string>
+    <string name="button_sign_up_activity">Sign Up</string>
+    <string name="edit_text_email">Email</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="login_text">Log In</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="button_sign_up">No Existing Account? Sign Up</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="edit_profile">Change Profile</string>
+    <string name="btn_logout">logout</string>
+    <string name="log_out">Log Out</string>
+    <string name="button_forgot_pwd">Forgot Password?</string>
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="delete">Delete Account</string>
+    <string name="google_web_client_id">374101418581-c2vhjr1d2s0m1u37ujntsp3elt4g40sm.apps.googleusercontent.com</string>
+    <string name="display_name">Username</string>
+    <string name="display_email">Email</string>
+    <string name="display_provider">Provider</string>
+    <string name="facebook_app_id">3118687728276282</string>
+    <string name="title_activity_spotify_dashboard">SpotifyDashboardActivity</string>
+</resources>
